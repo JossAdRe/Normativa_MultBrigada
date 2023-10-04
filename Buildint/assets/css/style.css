@@ -146,13 +146,13 @@ Tags: architect, building company, construction, construction template, construc
 
 .header-munu ul li {
     display: inline-block;
-    margin-left: 45px;
+    margin-left: 35px;
 }
 
 .header-munu ul li a {
     display: inline-block;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 15px;
     color: #18191D;
     font-weight: 500;
     padding: 30px 0;
@@ -320,7 +320,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .slider-discripton p {
     color: #fff;
-    font-size: 16px;
+    font-size: 26px;
     line-height: 29px;
     font-weight: 400;
     margin: 22px 0 36px;
@@ -553,7 +553,7 @@ Tags: architect, building company, construction, construction template, construc
     color: #F60;
     font-weight: 500;
     text-transform: uppercase;
-    line-height: 26px;
+    line-height: 16px;
     margin-bottom: 16px;
 }
 
@@ -639,7 +639,7 @@ Tags: architect, building company, construction, construction template, construc
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
-    margin: 38px 0 0px;
+    margin: 25px 0 0px;
 }
 
 /* process bar css */
@@ -763,6 +763,8 @@ Tags: architect, building company, construction, construction template, construc
     position: relative;
     z-index: 1;
     overflow: hidden;
+    bottom: 20px;
+    top: 30px;
 }
 
 .service-single-box::before {
@@ -854,12 +856,12 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .service-single-box:hover .service-title{
-    opacity: 0;
+    opacity: 0%;
 }
 
 .service-title h4 {
     font-size: 24px;
-    color: #F60;
+    color: rgb(227, 121, 50);
     font-weight: 500;
 }
 
@@ -4106,12 +4108,12 @@ button.icons {
 
 .form-box input {
     width: 100%;
-    height: 55px;
+    height: 45px;
     background: #F8F8F8;
     border: 1px solid #DDD;
     border-radius: 3px;
     padding: 0 17px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .form-box input::placeholder {
@@ -4123,12 +4125,12 @@ button.icons {
 
 .form-box textarea {
     width: 100%;
-    height:145px;
+    height:245px;
     background: #F8F8F8;
     border: 1px solid #DDD;
     border-radius: 3px;
     padding: 5px 17px;
-    margin-bottom: 25px;
+    margin-top: 35px;
 }
 
 .form-box textarea::placeholder {
@@ -4141,6 +4143,7 @@ button.icons {
 .form-box-button button {
     width: 210px;
     height: 60px;
+    top: 50px;
     border-radius: 3px;
     background-color: #F60;
     border: 0;
@@ -4479,7 +4482,7 @@ span.fill {
 
 .contact-us-area {
     padding: 118px 0 0;
-    margin-bottom: -250px;
+    margin-bottom: 250px;
     position: relative;
 }
 
