@@ -13,7 +13,7 @@ Tags: architect, building company, construction, construction template, construc
 02. Euildint Nav Menu Area Css 
 03. Euildint Slider Area Css
 04. Euildint Section Title Css
-05. Euildint Service Area css
+05. Euildint Service Area csster
 06. Euildint About Area Css
 07. Euildint Counter Area Css
 08. Euildint Testimonial Area Css
@@ -773,6 +773,7 @@ Tags: architect, building company, construction, construction template, construc
     height: 100%;
     width: 0;
     background: url(../images/resource/service-hover.png);
+    opacity: 1;
     right: 0;
     top: 0;
     z-index: -1;
@@ -807,7 +808,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .service-text h4 a {
     font-size: 24px;
-    color: #fff;
+    color: #000000;
     font-weight: 500;
     line-height: 34px;
     margin: 18px 0 10px;
@@ -1495,6 +1496,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .footer-area {
     background: url(../images/footer/footer-bg.jpg);
+    opacity: 1;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 109px 0 0px;
@@ -1511,7 +1513,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .footer-wiget-text p {
-    color: #FFF;
+    color: #1a1010;
     font-size: 16px;
     font-weight: 400;
     line-height: 25px;
@@ -1568,7 +1570,7 @@ Tags: architect, building company, construction, construction template, construc
 
 
 .footer-wiget-title h4 {
-    color: #FFF;
+    color: #000000;
     font-size: 24px;
     font-style: normal;
     line-height: 34px;
@@ -1590,7 +1592,7 @@ Tags: architect, building company, construction, construction template, construc
     display: inline-block;
     text-decoration: none;
     transition: .5s;
-    color: #FFF;
+    color: #000000;
     font-size: 17px;
     font-weight: 400;
     line-height: 36px;
@@ -1622,7 +1624,7 @@ Tags: architect, building company, construction, construction template, construc
     opacity: 0.800;
     font-size: 18px;
     line-height: 27px;
-    color: #e2e2e2;
+    color: #000000;
     font-weight: 400;
 }
 
@@ -1650,7 +1652,7 @@ Tags: architect, building company, construction, construction template, construc
     margin-right: 50px;
     font-size: 18px;
     line-height: 34px;
-    color: #ffffff;
+    color: #000000;
     font-weight: 400;
     transition: .5s;
     text-decoration: none;
